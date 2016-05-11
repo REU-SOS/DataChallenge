@@ -29,7 +29,7 @@ The data consists of about 1G of uncompressed data, in organized in several csv 
 
 #### Example result
 
-Just to give you one idea of an example project, Sam used this data to train a [startup generator](https://github.com/alt-code/Research/blob/master/pdfs/StartupBot%2048-36.pdf), which randomly creates a new startup landing page.
+Just to give you one idea of an example project, Sam used this data to train a [startup generator](https://twitter.com/dailystartupbot), which randomly creates a new startup landing page.
 
 ![Startup Bot](https://raw.githubusercontent.com/REU-SOS/DataChallenge/master/img/StartupBot.png)
 
