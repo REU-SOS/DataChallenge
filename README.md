@@ -33,6 +33,9 @@ Just to give you one idea of an example project, Sam used this data to train a [
 
 ![Startup Bot](https://raw.githubusercontent.com/REU-SOS/DataChallenge/master/img/StartupBot.png)
 
+Another example analysis. Best time to post on reddit.
+http://ramiro.org/notebook/reddit-best-post-times/
+
 #### Other Data Challenges and Results
 
 * [3rd github data challenge](https://github.com/blog/1892-third-annual-data-challenge-winners)
@@ -40,6 +43,8 @@ Just to give you one idea of an example project, Sam used this data to train a [
 * [1st github data challenge](https://github.com/blog/1162-github-data-challenge-winners)
 * [Stack Overflow data challenge](https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow)
 * [Stack Overflow visualization challenge](https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/prospector#213)
+
+
 
 
 ## Tim's Presentation Tips
