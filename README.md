@@ -50,9 +50,10 @@ The general goal of the data challenge is to explore and analyze the data in ord
 
 ## Tim's Presentation Tips
 
-PechaKucha or Pecha Kucha (Japanese: ペチャクチャ, IPA: [petɕa ku͍̥tɕa],[1] chit-chat) is a presentation style in which 20 slides are shown for 20 seconds each (6 minutes and 40 seconds in total). The format, which keeps presentations concise and fast-paced, powers multiple-speaker events.
+[PechaKucha](http://www.buzzmaven.com/2010/03/pucha-kucha.html) or Pecha Kucha (Japanese: ペチャクチャ, IPA: [petɕa ku͍̥tɕa], chit-chat) is a presentation style in which 20 slides are shown for 20 seconds each (6 minutes and 40 seconds in total). The format, which keeps presentations concise and fast-paced, powers multiple-speaker events.
 
-#### Tips: http://www.buzzmaven.com/2010/03/pucha-kucha.html
+#### Tips: 
+
 Examples:
 
 * http://www.pechakucha.org/presentations/data-science-for-social-good/play
