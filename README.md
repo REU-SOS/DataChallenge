@@ -1,6 +1,6 @@
 ![PIC OF CHALLENGE](img/challenge.jpeg)
 
-In spirt of the Github data challenge and Stack Overflow kaggle challenge, everyone will participate in an one week data challenge.
+In spirit of the Github data challenge and Stack Overflow kaggle challenge, everyone will participate in an one week data challenge.
 
 # The Developer Interaction History Data Challenge
 
