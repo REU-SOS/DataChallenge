@@ -1,11 +1,10 @@
-
-PIC OF CHALLENGE
+![PIC OF CHALLENGE](img/challenge.jpeg)
 
 In spirt of the Github data challenge and Stack Overflow kaggle challenge, everyone will participate in an one week data challenge.
 
 # The Developer Interaction History Data Challenge
 
-Programming environments offer a rich set of tools and editors for software developers to perform software engineering tasks. This dataset was created from recorded interactions of developers editing viewing, and performing tasks on code.
+Programming environments offer a rich set of tools and editors for software developers to perform software engineering tasks. This dataset was created from recorded interactions of developers editing, viewing, and performing tasks on code.
 
 ### Some basic statistics about data.
 
@@ -40,6 +39,8 @@ In the above video the user is interested in finding all instances of the string
 
 #### Data Challenge Guidelines
 
+The general goal of the data challenge is to explore and analyze the data in order to learn a new insight, while practing some of the skills taught during the bootcamp.
+
 * You can do anything you want that uses this data.
 * You can supplement this data with any other sources of data.
 * Some more details on [Data format](https://abb-iss.github.io/DeveloperInteractionLogs/#Data Format).
@@ -70,19 +71,26 @@ Examples:
 * Start using your name (e.g. "timm"); and add a number http://tiny.cc/timm4
 * When you tell people about your work, give them your name and number (e.g. "timm4").
 
-
 ### Inspiration
 
-##### Examples
+### Analysis Examples
 
-Just to give you one idea of an example project, Sam used [Product Hunt](https://www.producthunt.com) data to train a [startup generator](https://twitter.com/dailystartupbot), which randomly creates a new startup landing page.
+[How Are Java Software Developers Using the Eclipse IDE?](https://pdfs.semanticscholar.org/6dd3/8e533bf912364f8d5af73f66c67263933dd5.pdf)
 
-![Startup Bot](https://raw.githubusercontent.com/REU-SOS/DataChallenge/master/img/StartupBot.png)
+[A field study of how developers locate features in source code](http://damevski.github.io/files/icse-2016-field-study.pdf)
 
-Another example analysis. Best time to post on reddit.
-http://ramiro.org/notebook/reddit-best-post-times/
+[How Highly Focused Developers Use the Web](http://blog.codealike.com/how-highly-focused-developers-use-the-web/)
 
-In the above video the user is interested in finding all instances of the string "command" in his/her open file. To do this they press "Crtl + F", which initiates the Find and Replace dialog. The user then enters "command" into the search box. Upon each press of the "Find Next" button the user's cursor is placed at the next instance of "command" in the open file. The Blaze log created during this sequence is shown below. 
+[Best time to post on reddit](http://ramiro.org/notebook/reddit-best-post-times/)
+
+### Applications
+
+[When is it okay to interrupt a programmer?](http://blog.codealike.com/when-ok-interrupt-developer/)
+
+![red](img/red.png)
+
+Samim used [Product Hunt data](https://www.producthunt.com) to train a startup generator [twitter bot](https://twitter.com/dailystartupbot), which randomly creates a [new startup landing page](https://startupbot.github.io/BeforeBreakfast/).
+
 
 ##### Other Data Challenges and Results
 
