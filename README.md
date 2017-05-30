@@ -39,6 +39,8 @@ In the above video the user is interested in finding all instances of the string
 
 #### Data Challenge Guidelines
 
+**Data**: `git clone https://github.com/abb-iss/DeveloperInteractionLogs/`
+
 The general goal of the data challenge is to explore and analyze the data in order to learn a new insight, while practing some of the skills taught during the bootcamp.
 
 * You can do anything you want that uses this data.
