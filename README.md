@@ -6,12 +6,6 @@ The REU Bootcamp will introduce you to tools and practices of working with datas
 
 You'll have the opportunity to present your REU Data Challenge (or the start of your summer project) at the REU Bootcamp Presentations on June 6th!  
 
-
-2018 Data Challenge datasets
-https://2018.msrconf.org/track/msr-2018-Mining-Challenge
-
-https://sites.google.com/view/assistmentsdatamining/data-mining-competition-2017
-
 ## Data Challenge Datasets
 
 There are two possible datasets to explore for the Summer 2018 Data Challenge. 
